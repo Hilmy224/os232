@@ -11,7 +11,7 @@ A quick summary of linux. A very good and niche way of introducing you to linux.
 * [What are virtual machines (VMs)?](https://www.ibm.com/topics/virtual-machines)--- 
 Explains a lot of the key concept for virtual machines. also include links to video form explanation if needed.
 
-* [NetworkChuck](https://x.com/OrwellNGoode/status/1702713290907062568?s=20)---
+* [NetworkChuck](https://www.youtube.com/@NetworkChuck)---
 A Youtube Channel that has a lot of videos relating to cybersecurity and networks. His videos are very digestable and intresting to watch.
 * [Data Security: Protect your critical data (or else)](https://www.youtube.com/watch?v=N8xEgSe5RwE)---
 A video by IBM Technology that explains a six-step process for creating a data security strategy. Very Informative and easy to understand.
