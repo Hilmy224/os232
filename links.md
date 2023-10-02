@@ -24,5 +24,11 @@ ACL in linux. In case you forgot how to do them.
 * [Linux Explained | Mounting File Systems](https://www.youtube.com/watch?v=ssdFIWbVKZ4&t)--- A video that walkthroughs how to mount file system step by step while also explaining along the way. A good refresher if you forgot how to.
 * [Explaining File Systems: NTFS, exFAT, FAT32, ext4 & More](https://www.youtube.com/watch?v=_h30HBYxtws)--- A video that outlines the diffrence between some filesystems and explains the pros and cons of them. A good video if you want to know more about some filesystems.
 * [File Allocation Methods](https://www.geeksforgeeks.org/file-allocation-methods/)--- A link for if you wanna read more into file allocation methods. It is easy to understand and also talks about the pros and cons.
+
+## Week04
+* [What is a File Format?](https://www.youtube.com/watch?v=VVdmmN0su6E)--- A video that explains indepth about file formats. A pretty good watch if you want to learn more about file formats.
+* [Difference between static and shared libraries?](https://stackoverflow.com/questions/2649334/difference-between-static-and-shared-libraries)--- A link if you want a good explanations about static and shared libraries. One of the explanations are very good and easy to remember.
+* [What is Virtual Memory? What Does it Do?](https://www.youtube.com/watch?v=qeOBEOBJREs)--- An intro to virtual memory. A good watch if you just wanna know the basics.
+
 <br>
 <hr>
