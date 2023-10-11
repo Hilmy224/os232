@@ -25,10 +25,13 @@ ACL in linux. In case you forgot how to do them.
 * [Explaining File Systems: NTFS, exFAT, FAT32, ext4 & More](https://www.youtube.com/watch?v=_h30HBYxtws)--- A video that outlines the diffrence between some filesystems and explains the pros and cons of them. A good video if you want to know more about some filesystems.
 * [File Allocation Methods](https://www.geeksforgeeks.org/file-allocation-methods/)--- A link for if you wanna read more into file allocation methods. It is easy to understand and also talks about the pros and cons.
 
-## Week04
+## Week04 & Week05
 * [What is a File Format?](https://www.youtube.com/watch?v=VVdmmN0su6E)--- A video that explains indepth about file formats. A pretty good watch if you want to learn more about file formats.
 * [Difference between static and shared libraries?](https://stackoverflow.com/questions/2649334/difference-between-static-and-shared-libraries)--- A link if you want a good explanations about static and shared libraries. One of the explanations are very good and easy to remember.
 * [What is Virtual Memory? What Does it Do?](https://www.youtube.com/watch?v=qeOBEOBJREs)--- An intro to virtual memory. A good watch if you just wanna know the basics.
-
+* [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)--- An article that thoroughly explains about vm. A good way to read and refresh with.
+* [Shared memory](https://www.ibm.com/docs/en/informix-servers/12.10?topic=management-shared-memory)--- An article that explains a lot on shared memory. Its very structred and easy to understand
+* [Page tables for your page tables: understanding how multi level page tables work](https://www.youtube.com/watch?v=hd8bYx7QCS0&t=10s&pp=ygULcGFnZSB0YWJsZSA%3D)--- Explains the detailed concept of multi level page tables. It also discusses Linux Multi-level Page tables which is nice.
+	
 <br>
 <hr>

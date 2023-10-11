@@ -1,6 +1,17 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W05 10 L03 GitHub and git related, including commit, push, pull
+ZCZC W05 10 L41 TXT/mylog.txt update logs
+ZCZC W05 10 L44 TXT/myscript.sh related
+ZCZC W05 20 L43 TXT/myrank.tex related, including peer review.
+ZCZC W05 120 L15 Assignment #05
+ZCZC W05 30 L62 Backup Virtual Debian Guest
+ZCZC W05 60 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W05 100 L02 Class on Thursday
+ZCZC W05 100 L02 Class on Tuesday
+ZCZC W04 20 L05 Quiz
+ZCZC W04 120 L05 Quiz related including studying
 ZCZC W04 10 L03 GitHub and git related, including commit, push, pull
 ZCZC W04 10 L41 TXT/mylog.txt update logs
 ZCZC W04 10 L44 TXT/myscript.sh related
@@ -9,6 +20,7 @@ ZCZC W04 120 L84 Relax, Rest, Nap, and Sleep
 ZCZC W04 120 L70 Studying for TP 1 SDA
 ZCZC W04 60 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W04 80 L14 Assignment #04
+ZCZC W04 100 L02 Class on Thursday
 ZCZC W04 100 L02 Class on Tuesday
 ZCZC W03 10 L41 TXT/mylog.txt update logs
 ZCZC W03 10 L44 TXT/myscript.sh related
