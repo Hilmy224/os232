@@ -32,6 +32,11 @@ ACL in linux. In case you forgot how to do them.
 * [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)--- An article that thoroughly explains about vm. A good way to read and refresh with.
 * [Shared memory](https://www.ibm.com/docs/en/informix-servers/12.10?topic=management-shared-memory)--- An article that explains a lot on shared memory. Its very structred and easy to understand
 * [Page tables for your page tables: understanding how multi level page tables work](https://www.youtube.com/watch?v=hd8bYx7QCS0&t=10s&pp=ygULcGFnZSB0YWJsZSA%3D)--- Explains the detailed concept of multi level page tables. It also discusses Linux Multi-level Page tables which is nice.
+
+## Week06
+* [Fork System Call in Operating System](https://www.geeksforgeeks.org/fork-system-call-in-operating-system/)--- The link explains generally how the fork system call is used in operating system. Its a good read it also provides the pros and cons of having it.
+* [Reading 17: Concurrency](https://web.mit.edu/6.005/www/fa14/classes/17-concurrency/)--- The site explains in great detail about Concurrency, Processes, Threads, Time-slicing and also provides a shared memory example. After reading it you get a good grasp about the complexity of concurrency.
+* [CPU Cores VS Threads Explained](https://www.youtube.com/watch?v=hwTYDQ0zZOw)--- The video explain major diffrences between cores and threads. The video itself is very entertaining and fun to watch while still being informative.
 	
 <br>
 <hr>
