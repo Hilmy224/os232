@@ -37,6 +37,12 @@ ACL in linux. In case you forgot how to do them.
 * [Fork System Call in Operating System](https://www.geeksforgeeks.org/fork-system-call-in-operating-system/)--- The link explains generally how the fork system call is used in operating system. Its a good read it also provides the pros and cons of having it.
 * [Reading 17: Concurrency](https://web.mit.edu/6.005/www/fa14/classes/17-concurrency/)--- The site explains in great detail about Concurrency, Processes, Threads, Time-slicing and also provides a shared memory example. After reading it you get a good grasp about the complexity of concurrency.
 * [CPU Cores VS Threads Explained](https://www.youtube.com/watch?v=hwTYDQ0zZOw)--- The video explain major diffrences between cores and threads. The video itself is very entertaining and fun to watch while still being informative.
+
+## Week07
+* [Operating System Tutorial](https://www.geeksforgeeks.org/operating-systems/)--- The link provides a complete tutorial in operating systems. It's nice because it covers most things in the curriculum.
+* [Semaphores in Process Synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/)--- Explains sophomore with the added bonus of the pros and cons. Just a good read since theres also example you can try.
+* [Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)--- A nice way to get into what dealocks are. The explanation provided is very well and easy to understand.
+
 	
 <br>
 <hr>
