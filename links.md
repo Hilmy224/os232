@@ -43,6 +43,8 @@ ACL in linux. In case you forgot how to do them.
 * [Semaphores in Process Synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/)--- Explains sophomore with the added bonus of the pros and cons. Just a good read since theres also example you can try.
 * [Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)--- A nice way to get into what dealocks are. The explanation provided is very well and easy to understand.
 
+## Week 08
+* [Kernotex](https://www.youtube.com/@Kernotex)--- This channel is  godsent, especially his playlist on bulding Linux From Scracth really helped me out this week. I highly reccomend watching his other videos too since they are also informative and very helpfull.
 	
 <br>
 <hr>
