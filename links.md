@@ -45,6 +45,9 @@ ACL in linux. In case you forgot how to do them.
 
 ## Week 08
 * [Kernotex](https://www.youtube.com/@Kernotex)--- This channel is  godsent, especially his playlist on bulding Linux From Scracth really helped me out this week. I highly reccomend watching his other videos too since they are also informative and very helpfull.
-	
+
+## Week 09
+* [Linux From Scratch - Version 12.0](https://www.linuxfromscratch.org/lfs/view/12.0/)--- The book on LFS. It's very concise and a must for lfs.
+
 <br>
 <hr>
